@@ -8,7 +8,7 @@ The application allowes users to scan phone Numbers and Names easily from Busine
 - Scanning the Phone Number only and the user will have the Option to write the name himself before saving it to the user’s Contacts log 
 
 ## Implementation 
-* **[Front-End:](https://github.com/Amira-Fareed/Camera-Dialer/tree/master/Camera%20Dialer)** in Java using Android
+* **[Front-End:](https://github.com/EslamAlaaZaki/Camera-Dialer-/tree/master/Camera%20Dialer)** in Java using Android
 * **[Back-End:](https://github.com/EslamAlaaZaki/Camera-Dialer-/tree/master/Backend)** in Python 
 ## Backend's Dependencies
 * python 3
@@ -20,7 +20,7 @@ The application allowes users to scan phone Numbers and Names easily from Busine
 **[Click Here](https://drive.google.com/file/d/13U_bDedSSWpv50RFDHmI9cr_9gPOz3di/view?usp=sharing)**
 
 ## Documentation
-**[Click Here](https://github.com/Amira-Fareed/Camera-Dialer/blob/master/Camera%20Dialer/Camera%20Dialer.pdf)**
+**[Click Here](https://github.com/EslamAlaaZaki/Camera-Dialer-/blob/master/Camera%20Dialer/Camera%20Dialer.pdf)**
 
 ## Team Members
 * Amira Muhammad Fareed  
