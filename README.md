@@ -23,8 +23,9 @@ The application allowes users to scan phone Numbers and Names easily from Busine
 **[Click Here](https://github.com/EslamAlaaZaki/Camera-Dialer-/blob/master/Camera%20Dialer/Camera%20Dialer.pdf)**
 
 ## Team Members
+* Eslam Alaa Zaki 
 * Amira Muhammad Fareed  
 * Nourhan Mohamed Saleh
 * Eslam Medhat Mahrous 
 * Basma Saeed Ragab 
-* Eslam Alaa Zaki 
+
