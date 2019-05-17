@@ -9,7 +9,7 @@ The application allowes users to scan phone Numbers and Names easily from Busine
 
 ## Implementation 
 * **[Front-End:](https://github.com/Amira-Fareed/Camera-Dialer/tree/master/Camera%20Dialer)** in Java using Android
-* **[Back-End:](https://github.com/Amira-Fareed/Camera-Dialer/tree/master/Backend)** in Python 
+* **[Back-End:](https://github.com/EslamAlaaZaki/Camera-Dialer-/tree/master/Backend)** in Python 
 ## Backend's Dependencies
 * python 3
 * opencv 4.0.0
